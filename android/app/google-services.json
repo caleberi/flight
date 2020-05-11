@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "33021909484",
+    "firebase_url": "https://flight-app-8157a.firebaseio.com",
+    "project_id": "flight-app-8157a",
+    "storage_bucket": "flight-app-8157a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33021909484:android:42426e05c84305211bc8c9",
+        "android_client_info": {
+          "package_name": "com.hebronace.flight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33021909484-ji96tpkmgfoinm8ru1nb5t3sive98b8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqIHun2qB3lP8W9elYgVoUeAj5SI-j2Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33021909484-ji96tpkmgfoinm8ru1nb5t3sive98b8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "33021909484-sr3k3c965abeded6elno9jrbt19uuccg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hebronace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
